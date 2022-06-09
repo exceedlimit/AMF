@@ -1,23 +1,23 @@
 ## 1. 콘솔 로그인
-![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-로그인1.png)
+![로그인1](https://github.com/exceedlimit/AMFassets/images/2022-06-09-로그인1.png)
 
 1.1 위와 같이 로그인을 하거나 아래와 같이 로그인 창이 뜨면 'IAM 사용자'를 클릭하고 로그인을 진행하면 된다.
-![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-01-10.png)
+![로그인2](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-01-10.png)
 
 ## 2. 보안 자격 증명
 2.1 좌측 상단의 ID부분을 클릭하고, 보안 자격 증명 페이지로 들어간다.
 
-![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-보안자격증명%20접속.png)
+![보안자격증명1](https://github.com/exceedlimit/AMFassets/images/2022-06-09-보안자격증명%20접속.png)
 
 ## 3. 멀티 팩터 인증(MFA)
 3.1 멀티 팩터 인증 속성을 찾아 'MFA 디바이스 할당' 클릭
-![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-13-36.png)
+![MFA1](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-13-36.png)
 
 3.2 '가상 MFA 디바이스'로 두고 계속 클릭
-![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-16-14.png)
+![MFA2](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-16-14.png)
 
 3.3 'QR 코드 표시' 클릭 후 QR 코드 나타나는지 확인
- ![](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-19-42.png)
+ ![MFA3](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-19-42.png)
 
 ## 4. 스마트폰에 구글 OTP 셋팅
 4.1 스마트폰 스토어를 통해 '구글 OTP' 검색 후 설치 및 실행
