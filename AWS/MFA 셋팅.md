@@ -1,5 +1,5 @@
 ## 1. 콘솔 로그인
-![로그인1](https://github.com/exceedlimit/AMFassets/images/2022-06-09-로그인1.png)
+![로그인1](../assets/images/2022-06-09-로그인1.png)
 
 1.1 위와 같이 로그인을 하거나 아래와 같이 로그인 창이 뜨면 'IAM 사용자'를 클릭하고 로그인을 진행하면 된다.
 ![로그인2](https://github.com/exceedlimit/AMFassets/images/2022-06-09-12-01-10.png)
